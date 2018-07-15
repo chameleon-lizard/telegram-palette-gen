@@ -293,8 +293,8 @@ dialogsDateFg: colorDarker7_40;                              // box dialoghi tes
 dialogsTextFg: color7;                                       // box dialoghi testo messaggi (in piccolo sotto il nome)
 dialogsTextFgService: color7;                                // box dialoghi testo messaggi del mittente
 dialogsDraftFg: color1;                                      // box dialoghi colore testo bozza
-dialogsVerifiedIconBg: color2;                               // [UNTESTED]: chat list verified icon background
-dialogsVerifiedIconFg: color7;                               // [UNTESTED]: chat list verified icon check
+dialogsVerifiedIconBg: color2;                               // bg icona profilo verificato
+dialogsVerifiedIconFg: color0;                               // fg icona profilo verificato
 dialogsSendingIconFg: color2;                                // icona invio messaggio (orologio)
 dialogsSentIconFg: color2;                                   // singolo/doppi tick di conferma invio mex
 dialogsUnreadBg: color1;                                     // [UNTESTED]: chat list unread badge background for not muted chat
@@ -309,8 +309,8 @@ dialogsDateFgOver: colorDarker7_40;                          // box dialoghi tes
 dialogsTextFgOver: color7;                                   // box dialoghi testo messaggi (in piccolo sotto il nome) con cursore sopra
 dialogsTextFgServiceOver: color7;                            // box dialoghi testo messaggi del mittente con cursore sopra
 dialogsDraftFgOver: dialogsDraftFg;                          // box dialoghi colore testo bozza con cursore sopra
-dialogsVerifiedIconBgOver: color1;                           // [UNTESTED]: chat list verified icon background con cursore sopra
-dialogsVerifiedIconFgOver: dialogsVerifiedIconFg;            // [UNTESTED]: chat list verified icon check con cursore sopra
+dialogsVerifiedIconBgOver: color2;                           // bg icona profilo verificato con cursore sopra
+dialogsVerifiedIconFgOver: color0;                           // fg icona profilo verificato con cursore sopra
 dialogsSendingIconFgOver: dialogsSendingIconFg;              // icona invio messaggio (orologio) con cursore sopra
 dialogsSentIconFgOver: color2;                               // singolo/doppi tick di conferma invio mex con cursore sopra
 dialogsUnreadBgOver: colorDarker1_40;                        // [UNTESTED]: chat list unread badge background for not muted chat with mouse over
