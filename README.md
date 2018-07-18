@@ -4,11 +4,11 @@
 
 # Screenshots
 
-![screenshot 1 (green)](https://user-images.githubusercontent.com/40271651/42736395-79242280-8866-11e8-8419-a9dc0b22be4c.png)
+![screenshot 1 (green)](https://i.imgur.com/yAex1hd.png)
 
-![screenshot 2 (orange)](https://user-images.githubusercontent.com/40271651/42736398-7e628d04-8866-11e8-9b40-ee09c09910d7.png)
+![screenshot 2 (orange)](https://i.imgur.com/O5ISxeL.png)
 
-![screenshot 3 (purple)](https://user-images.githubusercontent.com/40271651/42736400-81f08110-8866-11e8-860d-d71c3e1b4c10.png)
+![screenshot 3 (purple)](https://i.imgur.com/5mBVvrm.png)
 
 # How it works
 
