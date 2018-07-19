@@ -4,11 +4,11 @@
 
 # Screenshots
 
-![screenshot 1 (green)](https://i.imgur.com/yAex1hd.png)
+![screenshot 1 (green)](https://i.imgur.com/pa95gk7.png)
 
-![screenshot 2 (orange)](https://i.imgur.com/O5ISxeL.png)
+![screenshot 2 (orange)](https://i.imgur.com/pFnf4Zx.png)
 
-![screenshot 3 (purple)](https://i.imgur.com/5mBVvrm.png)
+![screenshot 3 (purple)](https://i.imgur.com/zmqcFUq.png)
 
 # How it works
 
