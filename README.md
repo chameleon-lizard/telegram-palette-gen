@@ -25,8 +25,11 @@ To select the theme follow these steps:
 3. Double click on ~/.cache/wal-telegram/colors.tdesktop-theme:
 ![instruction 3](https://user-images.githubusercontent.com/40271651/42967681-5592a5ce-8ba1-11e8-83f3-195d3c14f3f8.png)
 
-4. Double click on ~/.cache/wal-telegram/background.png or jpg depending on your wallpaper:
-![instruction 4](https://user-images.githubusercontent.com/40271651/42967685-58456ba8-8ba1-11e8-8ea4-897177b9b18f.png)
+4. Click on keep changes:
+![instruction 4](https://user-images.githubusercontent.com/40271651/42968072-8a87aa8a-8ba2-11e8-85d7-8c4de2ceb391.png)
+
+5. Double click on ~/.cache/wal-telegram/background.png or jpg depending on your wallpaper:
+![instruction 5](https://user-images.githubusercontent.com/40271651/42967685-58456ba8-8ba1-11e8-8ea4-897177b9b18f.png)
 
 # Updating
 
