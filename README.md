@@ -1,5 +1,7 @@
 # wal-telegram
 
+> A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
+
 <img src="https://user-images.githubusercontent.com/40271651/42736398-7e628d04-8866-11e8-9b40-ee09c09910d7.png" alt="demo" align="center">
 
 # Installation
