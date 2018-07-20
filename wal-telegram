@@ -244,7 +244,7 @@ colorAlpha7_4c: ${color7}4c;
 colorAlpha7_6b: ${color7}6b;
 colorAlpha7_14: ${color7}14;
 EOF
-  const="$(<"./colors.wal-constants")"
+  const="$(<"${HOME}/.wal-telegram/colors.wal-constants")"
   printf '%s' "$const" >> "${pre}/colors.tdesktop-theme"
 }
 
