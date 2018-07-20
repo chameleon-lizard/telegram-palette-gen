@@ -7,8 +7,8 @@
 # Installation
 
 ```bash
-git clone --depth 1 https://github.com/matteoguarda/wal-telegram
-cd wal-telegram
+git clone --depth 1 https://github.com/matteoguarda/wal-telegram ~/.wal-telegram
+cd ~/.wal-telegram
 ./wal-telegram
 ```
 
@@ -36,9 +36,9 @@ To set the theme follow these steps:
 
 # Updating
 
-You can update wal-telegram by running git pull inside wal-telegram:
+You can update wal-telegram by running git pull inside ~/.wal-telegram:
 ```bash
-cd wal-telegram
+cd ~/.wal-telegram
 git pull
 ```
 
