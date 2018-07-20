@@ -101,9 +101,9 @@ placeholderFgActive: colorDarker7_40;                        // uguale a sopra, 
 inputBorderFg: color7;                                       // tipo l'fg della riga alternativa quando si sta creando un canale
 
 // Filter
-filterInputBorderFg: colorLighter0_40;                       // bordo che appare quando si clicka nella barra di ricerca
-filterInputInactiveBg: colorLighter0_40;                     // bg field di ricerca inattivo
-filterInputActiveBg: colorLighter0_40;                       // bg field di ricerca attivo
+filterInputBorderFg: colorLighter0_40;                        // bordo che appare quando si clicka nella barra di ricerca
+filterInputInactiveBg: colorLighter0_40;                      // bg field di ricerca inattivo
+filterInputActiveBg: colorLighter0_40;                        // bg field di ricerca attivo
 
 // Checkbox
 checkboxFg: colorDarker7_40;                                 // icone categorie emoji e anche caselle dei tick non "tickate"
@@ -207,8 +207,8 @@ dialogsDateFg: colorDarker7_40;                              // box dialoghi tes
 dialogsTextFg: color7;                                       // box dialoghi testo messaggi (in piccolo sotto il nome)
 dialogsTextFgService: color7;                                // box dialoghi testo messaggi del mittente
 dialogsDraftFg: color1;                                      // box dialoghi colore testo bozza
-dialogsVerifiedIconBg: color2;                               // bg icona profilo verificato
-dialogsVerifiedIconFg: color0;                               // fg icona profilo verificato
+dialogsVerifiedIconBg: color2;                                // bg icona profilo verificato
+dialogsVerifiedIconFg: color0;                                // fg icona profilo verificato
 dialogsSendingIconFg: color2;                                // icona invio messaggio (orologio)
 dialogsSentIconFg: color2;                                   // singolo/doppi tick di conferma invio mex
 dialogsUnreadBg: color1;                                     // [UNTESTED]: chat list unread badge background for not muted chat
@@ -223,8 +223,8 @@ dialogsDateFgOver: colorDarker7_40;                          // box dialoghi tes
 dialogsTextFgOver: color7;                                   // box dialoghi testo messaggi (in piccolo sotto il nome) con cursore sopra
 dialogsTextFgServiceOver: color7;                            // box dialoghi testo messaggi del mittente con cursore sopra
 dialogsDraftFgOver: dialogsDraftFg;                          // box dialoghi colore testo bozza con cursore sopra
-dialogsVerifiedIconBgOver: color2;                           // bg icona profilo verificato con cursore sopra
-dialogsVerifiedIconFgOver: color0;                           // fg icona profilo verificato con cursore sopra
+dialogsVerifiedIconBgOver: color2;                            // bg icona profilo verificato con cursore sopra
+dialogsVerifiedIconFgOver: color0;                            // fg icona profilo verificato con cursore sopra
 dialogsSendingIconFgOver: dialogsSendingIconFg;              // icona invio messaggio (orologio) con cursore sopra
 dialogsSentIconFgOver: color2;                               // singolo/doppi tick di conferma invio mex con cursore sopra
 dialogsUnreadBgOver: colorDarker1_40;                        // [UNTESTED]: chat list unread badge background for not muted chat with mouse over
@@ -239,8 +239,8 @@ dialogsDateFgActive: colorLighter7_40;                       // box dialoghi tes
 dialogsTextFgActive: colorLighter7_40;                       // box dialoghi testo messaggi (in piccolo sotto il nome) attiva
 dialogsTextFgServiceActive: colorLighter7_40;                // box dialoghi testo messaggi del mittente attiva
 dialogsDraftFgActive: colorLighter7_40;                      // box dialoghi colore testo bozza attiva
-dialogsVerifiedIconBgActive: dialogsTextFgActive;            // [UNTESTED]: chat list verified icon background for current (active) chat
-dialogsVerifiedIconFgActive: dialogsBgActive;                // [UNTESTED]: chat list verified icon check for current (active) chat
+dialogsVerifiedIconBgActive: dialogsTextFgActive;             // [UNTESTED]: chat list verified icon background for current (active) chat
+dialogsVerifiedIconFgActive: dialogsBgActive;                 // [UNTESTED]: chat list verified icon check for current (active) chat
 dialogsSendingIconFgActive: colorLighter7_40;                // icona invio messaggio (orologio) attiva
 dialogsSentIconFgActive: dialogsTextFgActive;                // singolo/doppi tick di conferma invio mex attiva
 dialogsUnreadBgActive: dialogsTextFgActive;                  // [UNTESTED]: chat list unread badge background for not muted chat for current (active) chat
@@ -469,22 +469,22 @@ overviewCheckFgActive: colorLighter7_40;                     // [UNTESTED]: shar
 overviewPhotoSelectOverlay: colorAlpha1_33;                  // [UNTESTED]: shared photos / videos / links fill for selected rows
 
 // Profile
-profileStatusFgOver: color1;                                 // [UNTESTED]: group members list in group profile user last seen text with mouse over
-profileVerifiedCheckBg: windowBgActive;                      // [UNTESTED]: profile verified check icon background
-profileVerifiedCheckFg: windowFgActive;                      // [UNTESTED]: profile verified check icon tick
-profileAdminStartFg: windowBgActive;                         // [UNTESTED]: group members list admin star icon
+profileStatusFgOver: color1;                                  // [UNTESTED]: group members list in group profile user last seen text with mouse over
+profileVerifiedCheckBg: windowBgActive;                        // [UNTESTED]: profile verified check icon background
+profileVerifiedCheckFg: windowFgActive;                        // [UNTESTED]: profile verified check icon tick
+profileAdminStartFg: windowBgActive;                          // [UNTESTED]: group members list admin star icon
 
 // Notifications
-notificationsBoxMonitorFg: windowFg;                         // [UNTESTED]: custom notifications settings box monitor color
-notificationsBoxScreenBg: dialogsBgActive;                   // [UNTESTED]: #6389a8; // custom notifications settings box monitor screen background
-notificationSampleUserpicFg: windowBgActive;                 // [UNTESTED]: custom notifications settings box small sample userpic placeholder
-notificationSampleCloseFg: color7;                           // [UNTESTED]: custom notifications settings box small sample close button placeholder
-notificationSampleTextFg: color7;                            // [UNTESTED]: custom notifications settings box small sample text placeholder
-notificationSampleNameFg: colorLighter0_40;                  // [UNTESTED]: custom notifications settings box small sample name placeholder
+notificationsBoxMonitorFg: windowFg;                          // [UNTESTED]: custom notifications settings box monitor color
+notificationsBoxScreenBg: dialogsBgActive;                    // [UNTESTED]: #6389a8; // custom notifications settings box monitor screen background
+notificationSampleUserpicFg: windowBgActive;                  // [UNTESTED]: custom notifications settings box small sample userpic placeholder
+notificationSampleCloseFg: color7;                            // [UNTESTED]: custom notifications settings box small sample close button placeholder
+notificationSampleTextFg: color7;                             // [UNTESTED]: custom notifications settings box small sample text placeholder
+notificationSampleNameFg: colorLighter0_40;                   // [UNTESTED]: custom notifications settings box small sample name placeholder
 
 // Change
-changePhoneSimcardFrom: notificationSampleTextFg;            // [UNTESTED]: change phone number box left simcard icon
-changePhoneSimcardTo: notificationSampleNameFg;              // [UNTESTED]: change phone number box right simcard and plane icons
+changePhoneSimcardFrom: notificationSampleTextFg;             // [UNTESTED]: change phone number box left simcard icon
+changePhoneSimcardTo: notificationSampleNameFg;               // [UNTESTED]: change phone number box right simcard and plane icons
 
 // Main
 mainMenuBg: windowBg;                                        // bg menu a sinstra
@@ -534,7 +534,7 @@ mediaviewPlaybackIconFg: mediaviewPlaybackActive;            // [UNTESTED]: vide
 mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;    // [UNTESTED]: video playback controls icon with mouse over
 mediaviewTransparentBg: colorLighter7_40;                    // [UNTESTED]: transparent filling part (when viewing a transparent .png file in Media Viewer)
 mediaviewTransparentFg: color7;                              // [UNTESTED]: another transparent filling part
-notificationBg: windowBg;                                    // [UNTESTED]: custom notification window background
+notificationBg: windowBg;                                     // [UNTESTED]: custom notification window background
 
 // Call
 callBg: colorAlpha0_f2;                                      // [UNTESTED]: phone call popup background
@@ -550,7 +550,7 @@ callHangupRipple: colorDarker1_30;                           // [UNTESTED]: phon
 callCancelBg: colorLighter7_40;                              // [UNTESTED]: phone call popup line busy cancel button background
 callCancelFg: colorDarker7_40;                               // [UNTESTED]: phone call popup line busy cancel button icon
 callCancelRipple: colorLighter7_40;                          // [UNTESTED]: phone call popup line busy cancel button ripple effect
-callMuteRipple: #ffffff12;                                   // [UNTESTED]: phone call popup mute mic ripple effect
+callMuteRipple: #ffffff12;                                      // [UNTESTED]: phone call popup mute mic ripple effect
 callBarBg: dialogsBgActive;                                  // [UNTESTED]: active phone call bar background
 callBarMuteRipple: dialogsRippleBgActive;                    // [UNTESTED]: active phone call bar mute and hangup button ripple effect
 callBarBgMuted: colorLighter0_40;                            // [UNTESTED]: phone call bar with muted mic background
